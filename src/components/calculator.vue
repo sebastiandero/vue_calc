@@ -14,9 +14,9 @@
         <div class="operator" @click="del">DEL</div>
       </div>
       <div class="operators-grid">
-        <div class="operator" @click="buttonClick"> + </div>
-        <div class="operator" @click="buttonClick"> ^ </div>
-        <div class="operator" @click="buttonClick"> - </div>
+        <div class="operator" @click="buttonClick">+</div>
+        <div class="operator" @click="buttonClick">^</div>
+        <div class="operator" @click="buttonClick">-</div>
         <div class="operator" @click="buttonClick">(</div>
         <div class="operator" @click="buttonClick">/</div>
         <div class="operator" @click="buttonClick">)</div>
